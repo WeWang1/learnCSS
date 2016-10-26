@@ -1,0 +1,12 @@
+h{
+    color:#518e05
+}
+p{
+    color: #7145b2;
+}
+ul{
+    background-color: chartreuse;
+}
+li:last-child{
+    background-color: brown;
+}
